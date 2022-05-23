@@ -1,0 +1,8 @@
+Future Improvements
+
+- Add lazy imports to the application
+- Improve Code splitting
+
+Architecture Improvements
+
+- Add web components instead of styled components (e.g. Lit, Stencil)
